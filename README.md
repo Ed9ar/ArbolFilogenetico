@@ -6,4 +6,5 @@ Al generar el árbol, la gráfica resultante se guarda en el archivo arbol.pdf, 
 
     Para ejecutar el proyecto:
         -descargar los archivos
+        -alinear las secuencias ejectuando el archivo ./SARSCOValign.sh
         -ejectuar con R Mapa_F.R
